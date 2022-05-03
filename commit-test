@@ -17,6 +17,9 @@ if ( repository.equals " " ==  repository.val== null) {
 else 
 
 return false;
+catch Exception e{      
+e.printStackTrace();
+}
 
 
 );
